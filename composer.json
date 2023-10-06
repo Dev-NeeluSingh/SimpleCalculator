@@ -1,32 +1,18 @@
 {
-  "name": "anandmainali/packagetemplate",
-  "description": "Make your package development easier with package template.",
+  "name": "Dev-NeeluSingh/SimpleCalculator,
+  "description": "A simple calculator app for android studio",
 "keywords": [
-        "anandmainali",
-        "package",
-        "template",
+        "Dev-NeeluSingh",
+        "Simple",
+        "Calculator",
         "laravel"
     ],
-   "homepage": "https://github.com/anandmainali/PackageTemplate",
-  "license": "MIT",
+   "homepage": "https://github.com/Dev-NeeluSingh/Scientific-Calculator",
   "authors": [
     {
-      "name": "Anand Mainali",
-      "email": "urajmainali5@gmail.com",
-      "homepage": "https://anandmainali.com.np",
+      "name": "Neelu Singh",
+      "email": "sneelu@061@gmail.com",
       "role": "Developer" 	
     }
-  ],
-  "minimum-stability": "dev",
-  "require": {},
-  "autoload": {
-    "psr-4": {
-      "Anand\\PackageTemplate\\": "src/"
-    }
-  },
-  "extra": {
-    "laravel": {
-      "providers": "Anand\\PackageTemplate\\PackageTemplateServiceProvider"
-    }
-  }
+  ]
 }
