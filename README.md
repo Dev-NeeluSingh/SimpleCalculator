@@ -37,8 +37,13 @@
 <a href="https://github.com/Dev-NeeluSingh/Scientific-Calculator">
   <img height="140" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-NeeluSingh&repo=Scientific-Calculator&show_owner=true" />
 </a>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-NeeluSingh&repo=Scientific-Calculator&show_owner=true)](https://github.com/Dev-NeeluSingh/Scientific-Calculator)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-NeeluSingh&repo=Flashlight-App&show_owner=true)](https://github.com/Dev-NeeluSingh/Flashlight-App)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-NeeluSingh&repo=Runtime-Notification-Permission&show_owner=true)](https://github.com/Dev-NeeluSingh/Runtime-Notification-Permission)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-NeeluSingh&repo=Fullscreen-Activity-Android-11-Above&show_owner=true)](https://github.com/Dev-NeeluSingh/Fullscreen-Activity-Android-11-Above)
+<a href="https://github.com/Dev-NeeluSingh/Flashlight-App">
+  <img height="140" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-NeeluSingh&repo=Flashlight-App&show_owner=true" />
+</a>
+</br>
+<a href="https://github.com/Dev-NeeluSingh/Runtime-Notification-Permission">
+  <img height="140" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-NeeluSingh&repo=Runtime-Notification-Permission&show_owner=true" />
+</a>
+<a href="https://github.com/Dev-NeeluSingh/Fullscreen-Activity-Android-11-Above">
+  <img height="140" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-NeeluSingh&repo=Fullscreen-Activity-Android-11-Above&show_owner=true" />
+</a>
