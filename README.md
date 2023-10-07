@@ -35,7 +35,7 @@
 |---|---|---|---|
 # Github Projects
 <a href="https://github.com/Dev-NeeluSingh/Scientific-Calculator">
-  <img height="240" width="360" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-NeeluSingh&repo=Scientific-Calculator&show_owner=true" />
+  <img height="200" width="360" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-NeeluSingh&repo=Scientific-Calculator&show_owner=true" />
 </a>
 <a href="https://github.com/Dev-NeeluSingh/Flashlight-App">
   <img height="240" width="360" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-NeeluSingh&repo=Flashlight-App&show_owner=true" />
